@@ -1,0 +1,4 @@
+name: Inventory Menu
+version: '${version}'
+main: net.studiorily.inventorymenu.InventoryMenu
+api-version: 1.19
